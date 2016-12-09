@@ -11,6 +11,7 @@ This is a note about my Toolbox
     - [Ubuntu](https://www.ubuntu.com)
 - Disk
     - fdisk
+    - mkfs
 - System Moniter
     - htop
 - Networking
@@ -40,7 +41,7 @@ This is a note about my Toolbox
 ## Java
 - Java Database Connectivity
 - Hibernate
-- JSF]/Primeface
+- JSF/Primeface
 - Liferay, a content management system.
 
 ## Hardware
@@ -49,10 +50,12 @@ This is a note about my Toolbox
 ## Utilities
 - [Git](https://git-scm.com/)&[Github](https://github.com/)
     - [SourceTreee](https://www.sourcetreeapp.com/)
+- tmux, a termainal session manager.
+
+## Editor
 - Vim
 - Sublime Text
     - package manager
-- tmux, a termainal session manager.
 
 ## Service
 - [Parse](https://parse.com/)
