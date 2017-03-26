@@ -5,6 +5,7 @@ This is a note about my Toolbox
 - [homebrew](http://brew.sh/)
 - [iTerm2](https://www.iterm2.com/)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Sequel Pro](https://sequelpro.com), great client graph user interface for MySQL and MariaDB.
 
 ## Unix-like
 - Distributions
